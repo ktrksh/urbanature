@@ -1,1 +1,165 @@
 
+element.style {
+}
+.EHoceA #root, .EHoceA .ZHPl4Q, .EHoceA body, html.EHoceA {
+    -webkit-user-select: none;
+    user-select: none;
+}
+body {
+    -webkit-overflow-scrolling: touch;
+}
+#root, .ZHPl4Q, body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+body {
+    overflow: hidden;
+    touch-action: manipulation;
+}
+#root, ._uJvWw, body, html {
+    height: 100%;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    -webkit-user-select: none;
+    user-select: none;
+    width: 100%;
+}
+ユーザー エージェント スタイルシート
+body {
+    display: block;
+    margin: 8px;
+}
+.dark {
+    --TQZnpw: var(--Shm3YQ);
+    --_fYF2A: var(--z7Xq7A);
+    --NP-zQw: hsla(0, 0%, 100%, .4);
+    --Rv5mPw: hsla(0, 0%, 100%, .5);
+}
+.dark {
+    --gJAqkA: hsla(0, 0%, 100%, .4);
+}
+.dark {
+    --wvWOFQ: #3b3c3d;
+}
+.dark {
+    --h1VP-w: rgba(13, 18, 22, .7);
+    --ILGcOg: rgba(13, 18, 22, 0);
+    --Sl3ZoA: rgba(28, 39, 48, .5);
+}
+.dark {
+    --eOkq_g: hsla(0, 0%, 100%, .4);
+    --2YvZ4w: #fff;
+    --LUmG1g: hsla(0, 0%, 100%, .7);
+}
+.dark {
+    --rlgJFA: #898d90;
+    --U8mBnQ: rgba(165, 112, 255, .4);
+}
+.dark {
+    --2lyf3Q: #252627;
+}
+.dark {
+    --1hfp2Q: hsla(0, 0%, 100%, .5);
+}
+.dark {
+    --pu8pYg: #252627;
+}
+.dark {
+    --FzoXNQ: #252627;
+}
+.dark {
+    --Wc1zKQ: hsla(0, 0%, 100%, .15);
+}
+.dark {
+    --wlsoXA: 0px 0px 0px 1px #3b3c3d, 0px 6px 20px -4px rgba(0, 0, 0, .45);
+    --ej6pBg: 0px 0px 0px 1px #3b3c3d, 0px 12px 40px -8px rgba(0, 0, 0, .45);
+    --3LGewA: 0px 0px 0px 1px #3b3c3d, 0px 2px 4px -1px rgba(0, 0, 0, .45);
+}
+.dark {
+    --xpFk1A: hsla(0, 0%, 100%, .15);
+}
+.dark {
+    --QpnZJg: 0.15;
+    --pWZ5jw: 0.10;
+}
+.dark {
+    --4h-m_A: dark;
+    --Zpa-KA: #00c4cc;
+    --eGVbng: #8b3dff;
+    --M5_pvA: #7731d8;
+    --boKKWg: #612dae;
+    --oqurdw: hsla(0, 0%, 100%, .07);
+    --d1p99w: #fff;
+    --17LfHw: hsla(0, 0%, 100%, .4);
+    --EgWgfg: hsla(0, 0%, 100%, 0);
+    --X3--Zg: hsla(0, 0%, 100%, .07);
+    --xfy86Q: hsla(0, 0%, 100%, .15);
+    --p53f_Q: hsla(0, 0%, 100%, 0);
+    --REcY5g: #fff;
+    --XajtPQ: hsla(0, 0%, 100%, .4);
+    --FVk7Ew: rgba(165, 112, 255, .3);
+    --2-zmYA: rgba(165, 112, 255, .3);
+    --ySYdsQ: rgba(165, 112, 255, .2);
+    --aMXh3A: hsla(0, 0%, 100%, .15);
+    --_RN1Dg: #fff;
+    --8fGzbw: hsla(0, 0%, 100%, .4);
+    --ob8tTA: hsla(0, 0%, 100%, 0);
+    --MghLXQ: hsla(0, 0%, 100%, .07);
+    --3R4u8w: hsla(0, 0%, 100%, .15);
+    --TwiLcg: hsla(0, 0%, 100%, 0);
+    --QeQ0Dw: #fff;
+    --TZOI7A: hsla(0, 0%, 100%, .4);
+    --SZMkXA: rgba(165, 112, 255, .3);
+    --1zesEA: rgba(165, 112, 255, .3);
+    --AMxRgw: rgba(165, 112, 255, .2);
+    --BZ60Jw: hsla(0, 0%, 100%, .15);
+    --8Ex5gA: #fff;
+    --spIP2A: hsla(0, 0%, 100%, .4);
+    --KtXlRg: rgba(17, 23, 29, .6);
+    --QADODw: rgba(13, 18, 22, .7);
+    --kTBxcw: rgba(13, 18, 22, .86);
+    --HxK_kw: rgba(17, 23, 29, .6);
+    --6u-yJQ: #fff;
+    --J0YKvA: hsla(0, 0%, 100%, .4);
+    --yrvb-A: hsla(0, 0%, 100%, .15);
+    --nwNs8w: hsla(0, 0%, 100%, .3);
+    ---tf09g: hsla(0, 0%, 100%, .15);
+    --x0GzuQ: hsla(0, 0%, 100%, .15);
+    --VfoYEg: #fff;
+    --nbAwww: hsla(0, 0%, 100%, .4);
+    --Shm3YQ: hsla(0, 0%, 100%, .07);
+    --z7Xq7A: hsla(0, 0%, 100%, .15);
+    --m9sa8w: hsla(0, 0%, 100%, .2);
+    --aj4L_w: hsla(0, 0%, 100%, .07);
+    --pj2xMA: #fff;
+    --3YOFOw: hsla(0, 0%, 100%, .4);
+プロパティをすべて表示（他 72 件）
+}
+.theme {
+    color-scheme: var(--4h-m_A);
+}
+注入されたスタイルシート
+:host, :root {
+    --rem: 16;
+}
+html {
+    font-size: 62.5%;
+}
+@supports (height:env(safe-area-inset-top)) {
+    html {
+        --safe-area-inset-top: env(safe-area-inset-top);
+        --safe-area-inset-bottom: env(safe-area-inset-bottom);
+        --safe-area-inset-left: env(safe-area-inset-left);
+        --safe-area-inset-right: env(safe-area-inset-right);
+    }
+}
+html {
+    --safe-area-inset-top: 0px;
+    --safe-area-inset-bottom: 0px;
+    --safe-area-inset-left: 0px;
+    --safe-area-inset-right: 0px;
+}
